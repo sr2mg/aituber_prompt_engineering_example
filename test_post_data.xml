@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <title>これはAITuber本用のテスト記事の題名です</title>
+  <content type="text/plain">
+    これはAITuber本用のテスト記事です。ここが本文です。
+  </content>
+  <category term="Scala" />
+  <category term="Scala2" />
+</entry>
