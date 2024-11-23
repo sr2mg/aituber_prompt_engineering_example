@@ -49,3 +49,9 @@ source .venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+#### .envファイルの作成
+.env.templateをコピーして.envファイルを作成してください。
+```
+cp .env.template .env
+```
+このファイルに環境変数を記述してください。
